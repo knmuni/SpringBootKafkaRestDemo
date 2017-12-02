@@ -1,0 +1,3 @@
+com\test\kafka\controller\KafkaRestController.class
+com\test\kafka\SpringBootKafkaApplication.class
+com\test\kafka\service\KafkaSender.class
